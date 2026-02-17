@@ -28,6 +28,6 @@ fun main() {
 
         println("Suma de digitos de $n: $suma")
         // Haciendo un cambio
-        // error
+        // Cambio borrar
     }
 }
